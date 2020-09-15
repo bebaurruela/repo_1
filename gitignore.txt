@@ -1,1 +1,1 @@
-# ignorar#*.xlsx
+# ignorar*.xlsx
